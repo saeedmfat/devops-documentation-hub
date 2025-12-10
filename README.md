@@ -54,7 +54,6 @@ A comprehensive collection of technical guides and troubleshooting documentation
 ![Repositories](https://img.shields.io/badge/Repositories-16-orange)
 ![Public](https://img.shields.io/badge/All_Public-100%25-brightgreen)
 ![Total Stars](https://img.shields.io/github/stars/saeedmfat?style=flat&color=yellow)
-![Total Forks](https://img.shields.io/github/forks/saeedmfat?style=flat&color=blue)
 
 ## 📈 Recent Activity
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=saeedmfat&theme=github)
