@@ -48,12 +48,6 @@ A comprehensive collection of technical guides and troubleshooting documentation
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-0E5CAD?style=for-the-badge&logo=systemd&logoColor=white)
 
-## 📊 Repository Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=saeedmfat&color=blueviolet)
-![Repositories](https://img.shields.io/badge/Repositories-16-orange)
-![Public](https://img.shields.io/badge/All_Public-100%25-brightgreen)
-![Total Stars](https://img.shields.io/github/stars/saeedmfat?style=flat&color=yellow)
 
 ## 📈 Recent Activity
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=saeedmfat&theme=github)
